@@ -1,5 +1,5 @@
 {
- "name": "Sem Título 50",
+ "name": "Head Shop Bar & Tabacaria - Tour Virtual 360°",
  "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "theme_color": "#FFFFFF",
@@ -40,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "description": "Rua Luís Góis, 1683 - Vila Clementino, São Paulo - SP",
  "display": "fullscreen"
 }

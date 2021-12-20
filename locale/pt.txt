@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Rua Luís Góis, 1683 - Vila Clementino, São Paulo - SP
 
 ### Title
-tour.name = Sem Título 50
+tour.name = Head Shop Bar & Tabacaria - Tour Virtual 360°
 
 ## Skin
 
